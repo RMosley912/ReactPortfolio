@@ -1,70 +1,75 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Reggie Mosley React Portfolio
 
-## Available Scripts
+Welcome to my Developer Portfolio! This portfolio was developed with `create-react-app` and styled using `tailwind`. It offers a comprehensive showcase of my journey, skills, and prior work in software development.
 
-In the project directory, you can run:
+## Portfolio Structure
 
-### `npm start`
+The portfolio is divided into the following sections:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- About Me: An insight into my personal journey, interests, and motivation in the software development field.
+- Portfolio: A detailed showcase of my past projects, complete with images and direct links to the live versions and the source code.
+- Contact: A communication form for potential employers or collaborators to contact me directly via email.
+-  Resume: A segment with a downloadable link to my comprehensive resume and a snapshot of my technical proficiencies.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You can visit the portfolio at [rmosley912.github.io/ReactPortfolio/](https://rmosley912.github.io/ReactPortfolio/).
 
-### `npm test`
+## Portfolio Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://github.com/RMosley912/ReactPortfolio/assets/122495055/50bdfe49-8013-4cb8-8e5f-b16ba61936c6)
 
-### `npm run build`
+![image](https://github.com/RMosley912/ReactPortfolio/assets/122495055/9d9196bd-c5f5-4af7-9332-a11b9920a68f)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://github.com/RMosley912/ReactPortfolio/assets/122495055/4b12ae65-7688-41e0-81b8-110b3580aa29)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/RMosley912/ReactPortfolio/assets/122495055/d76c9583-bb03-4964-a79f-a08f819ab248)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Prerequisites
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+For development, ensure you have the following software installed on your local machine:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Node.js (version 12 or above) along with npm
+- Git
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Getting Started with Local Development
 
-## Learn More
+Clone the repository to your local machine:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+git clone https://github.com/rmosley912/ReactPortfolio.git
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Navigate to the project directory:
 
-### Code Splitting
+```bash
+cd ReactPortfolio
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Install all the required dependencies:
 
-### Analyzing the Bundle Size
+```bash
+npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Initiate the development server:
 
-### Making a Progressive Web App
+```bash
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+The portfolio should now be accessible at `http://localhost:3000`.
 
-### Advanced Configuration
+## Technology Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- [Create React App](https://github.com/facebook/create-react-app) - Facilitates setting up a modern web application by running a single command.
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework that enables rapid building of custom user interfaces.
+- [React-Router](https://reactrouter.com/) - Provides declarative routing for React.
 
-### Deployment
+## Contributions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+While I am not accepting contributions at the moment, please feel free to email me any suggestions you have at rmosley241@gmail.com
+## License
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is open-source and licensed under the [MIT License](LICENSE).
