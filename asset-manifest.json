@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.fd819240.css",
+    "main.js": "/ReactPortfolio/static/js/main.5dc0816f.js",
+    "static/js/787.cb712648.chunk.js": "/ReactPortfolio/static/js/787.cb712648.chunk.js",
+    "static/media/Rmosleybw2.jpg": "/ReactPortfolio/static/media/Rmosleybw2.b609ee17c7e11b97bc46.jpg",
+    "static/media/emergencyironpicture3.jpg": "/ReactPortfolio/static/media/emergencyironpicture3.35d80fc42980e26ac470.jpg",
+    "static/media/FeastFindr1.jpg": "/ReactPortfolio/static/media/FeastFindr1.900069c91e542625073b.jpg",
+    "static/media/WeatherDashboardScreenshot1.jpg": "/ReactPortfolio/static/media/WeatherDashboardScreenshot1.350dddce4162a87d5853.jpg",
+    "static/media/interviewbuddy2.jpg": "/ReactPortfolio/static/media/interviewbuddy2.23d8b9af0404b051b0b8.jpg",
+    "static/media/2023Resume-RMosley.pdf": "/ReactPortfolio/static/media/2023Resume-RMosley.e40f91d412e43956841f.pdf",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.fd819240.css.map": "/ReactPortfolio/static/css/main.fd819240.css.map",
+    "main.5dc0816f.js.map": "/ReactPortfolio/static/js/main.5dc0816f.js.map",
+    "787.cb712648.chunk.js.map": "/ReactPortfolio/static/js/787.cb712648.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd819240.css",
+    "static/js/main.5dc0816f.js"
+  ]
+}
