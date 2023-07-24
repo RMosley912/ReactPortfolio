@@ -1,30 +1,30 @@
 import React from 'react';
 import Project from './Project';
-import FeastFindr from './assets/FeastFindr1.png';
-import EmergencyIron from './assets/emergencyironpicture3.png';
-import WeatherDashboard from './assets/WeatherDashboardScreenshot1.png';
-import interviewbuddy from './assets/interviewbuddy2.png';
+import FeastFindr1 from './assets/FeastFindr1.jpg';
+import EmergencyIron from './assets/emergencyironpicture3.jpg';
+import WeatherDashboard from './assets/WeatherDashboardScreenshot1.jpg';
+import interviewbuddy from './assets/interviewbuddy2.jpg';
 
 const Portfolio = () => {
   const projects = [
     
     {
       title: 'Feast-Findr',
-      image: {FeastFindr},
+      image: FeastFindr1,
        repoLink: 'https://github.com/RMosley912/Feast-Findr',
       appLink: 'https://protected-mesa-32753.herokuapp.com/',
     },
 
     {
       title: 'Emergency Iron',
-      image: {EmergencyIron},
+      image: EmergencyIron,
        repoLink: 'https://github.com/RMosley912/emergency-iron-project',
       appLink: 'https://example.com/',
     },
 
     {
       title: 'Weather Dashboard',
-      image: {WeatherDashboard},
+      image: WeatherDashboard,
 
        repoLink: 'https://github.com/RMosley912/WeatherDashboard',
       appLink: 'https://rmosley912.github.io/WeatherDashboard/',
@@ -32,7 +32,7 @@ const Portfolio = () => {
 
     {
       title: 'Interview Buddy',
-      image: {interviewbuddy},
+      image: interviewbuddy,
        repoLink: 'https://github.com/RMosley912/interview_buddy.com/',
       appLink: 'https://example.com/',
     },
