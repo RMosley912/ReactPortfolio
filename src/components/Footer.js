@@ -3,14 +3,16 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer className="bg-gray-200 text-blue-500 p-5">
-      <a href="https://github.com/" target="_blank" rel="noreferrer">
+      <a href="https://github.com/RMosley912" target="_blank" rel="noreferrer">
         Visit My Github
       </a>
-      <a href="https://linkedin.com/" target="_blank" rel="noreferrer">
+      <br></br>
+      <a href="https://www.linkedin.com/in/rmosley770/" target="_blank" rel="noreferrer">
         Visit My LinkedIn
       </a>
-      <a href="https://twitter.com/" target="_blank" rel="noreferrer">
-        Twitter
+      <br></br>
+      <a href="mailto:rmosley241@gmail.com" target="_blank" rel="noreferrer">
+        Email me @rmosley241@gmail.com
       </a>
     </footer>
   );

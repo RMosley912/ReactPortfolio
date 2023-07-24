@@ -1,4 +1,5 @@
 import React from 'react';
+import MyResume from './assets/2023Resume-RMosley.pdf'
 
 const Resume = () => {
   const skills = [
@@ -19,7 +20,7 @@ const Resume = () => {
     <section className="p-5 bg-gray-200 text-blue-500">
       <h2 className="font-bold text-3xl mb-5">Resume</h2>
       <p>
-        Download my <a href="/path-to-your-resume.pdf">resume</a>
+        Download my <a href={MyResume}>resume</a>
       </p>
       <h3 className="font-bold text-2xl mt-5">Proficiencies</h3>
       <ul className="list-disc ml-5">
